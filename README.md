@@ -119,8 +119,42 @@ This project is ideal for:
 * Mail: [rahulkrishnaofficial@gmail.com](mailto:rahulkrishnaofficial@gmail.com)
 
 ---
+## 📝 License
+This project is open-source and available under the [MIT License](LICENSE).
+---
 
 ## 🌟 Star This Repo
 
+## 🤝 Contributing
+
+Feel free to fork this repo and open a pull request if you'd like to:
+
+- Improve GUI design
+- Add password encryption
+- Add SQL file generator script
+
+All contributions are welcome!
+
+---
+
+## 🐞 Known Issues
+
+- GUI may appear stretched on certain high-resolution displays.
+- PDF files overwrite if same date is selected multiple times.
+- Account registration does not validate duplicate usernames (yet).
+
+---
+## 🚧 Future Enhancements
+
+- 🔐 Add OTP/email-based 2FA login system
+- 📊 Visual dashboard for admin analytics
+- 🌍 Web version using Flask or Django
+- 📱 Mobile-friendly version using Kivy
+
+---
+
 If this project helped you or inspired you, please ⭐ star it on GitHub — it motivates me to build more such projects!
-For further details about this project verify pdf document named "User Instructions for Running the ATM System Code"
+
+NOTE : For further details about this project verify pdf document named "User Instructions for Running the ATM System Code"
+
+---
